@@ -1,0 +1,19 @@
+.firstclass {
+  background-color: #ff91a2;
+  font-family: "Verdana","DejaVu Sans", sans-serif;
+}
+
+#numbertwo {
+  color: #00bbff;
+  font-size: 36px;
+}
+
+.firstclass.firstchild {
+  font-size: 24px;
+}
+
+#numberfour {
+  background-color: #94ffa9;
+  font-size: 24px;
+  font-weight: bold;
+}
